@@ -1,9 +1,6 @@
 # 💫 About Me:
 A 2nd year Computer Science Student at Toronto Metropolitan University with a strong interest in understanding programming fundamentals and exploring how things work at a lower level. Passionate about full-stack application development and utilizing different languages and concepts to solve complex problems and make a meaningful impact.
-+ 🔭 I’ve recently developed ProgressPal
-+ 🌱 I’m currently learning different programming paradigms and delving into the inner workings of operating systems
 + 📫 How to reach me: matthew.moga@torontomu.ca
-+ ⚡ Fun fact: I'm 260 bro
 
 
 ## 🌐 Socials:
