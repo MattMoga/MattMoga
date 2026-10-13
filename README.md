@@ -1,5 +1,5 @@
 # 💫 About Me:
-A 2nd year Computer Science Student at Toronto Metropolitan University with a strong interest in understanding programming fundamentals and exploring how things work at a lower level. Passionate about full-stack application development, problem solving, and system design.
+A 3rd year Computer Science Student at Toronto Metropolitan University with a strong interest in understanding programming fundamentals and exploring how things work at a lower level. Passionate about full-stack application development, problem solving, and system design.
 + 📫 How to reach me: matthew.moga@torontomu.ca
 + 📖 Currently reading **Code: The Hidden Language of Computer Hardware and Software** by Charles Petzold
 
